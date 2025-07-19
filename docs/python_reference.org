@@ -40,3 +40,4 @@ The core philosophy is summerized in the [[https://en.wikipedia.org/wiki/Zen_of_
 
 * References
 1. [[https://pyflo.net/][PyFlo for learning sequencially]] (Tutorial website based on a learning flow-chart)
+2. [[https://www.geeksforgeeks.org/python/python-programming-language-tutorial/] [Python - GeeksforGeeks]]
