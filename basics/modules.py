@@ -9,4 +9,4 @@ def factorial(number):
         fact *= item
     return fact
 
-print(factorial(5))
+print(f"log of {factorial(5)} = {math.log(factorial(5), 2)}")
