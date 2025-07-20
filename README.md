@@ -1,10 +1,10 @@
 # Python
 
-## python-scripting
+## Description
 
 Learning Python Scripting
 
-## Python Uses
+## Uses
 
 Python is used for:
 
@@ -20,6 +20,8 @@ Internet of Things (IoT): MicroPython, Raspberry Pi.
 DevOps and Cloud: Automation scripts and APIs.
 Cybersecurity: Penetration testing and ethical hacking tools.
 
+## Keywords
+
 | Category | Keywords |
 |----------|----------|
 | Value Keywords | True, False, None |
@@ -30,3 +32,7 @@ Cybersecurity: Penetration testing and ethical hacking tools.
 | Import and Module | import, from |
 | Scope and Namespace | global, nonlocal |
 | Async Programming | async, await |
+
+## Datatypes
+
+[Datatypes](https://media.geeksforgeeks.org/wp-content/uploads/20241210131752166623/Python-Data-Types.webp)
